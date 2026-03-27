@@ -1,0 +1,66 @@
+[
+    {
+      "question": "The 2:1 multiplexer using basic logic gates with active low enable input can be build using:",  
+      "qid": 1,
+      
+        "option_a": "Two AND, Two NOT, One OR gates",                 
+        "option_b": "Two AND, One NOT, One OR gates",                  
+        "option_c": "Two AND, Two NOT, Two OR gates",                  
+        "option_d": "One AND, Three NOT, One OR gates" ,                  
+     
+      "correct_option": "a"                
+    },
+
+    {
+     "question": "Select the output when S2= S1 = 1 and S0 = 0.</br><img src=\"images/ex1postQ3.JPG\"/>",  
+     "qid": 2,
+      
+        "option_a": "Y = 0",                  
+        "option_b": "Y = 1",                  
+        "option_c": "Y = D",                  
+        "option_d": "None of these"       ,            
+      
+      "correct_option": "a"                
+    },                                   
+    									                 
+    {
+      "question": "Identify the circuit shown below.</br><img src=\"images/ex1postQ4.JPG\"/>",
+      "qid": 3,
+      
+        "option_a": "2:1 Mux",
+        "option_b": "4:1 Mux",
+        "option_c": "6:1 Mux",
+        "option_d": "8:1 Mux",
+     
+      "correct_option": "b"
+    },
+
+    {
+      "question": " Design, construct and verify a 2:1 Mux using basic logic gates. Get the simulation results evaluated from your faculty.",
+      "qid": 4,
+      "option_a": "decode input",
+      "option_b": "strobe input",
+      "option_c": "Select input",
+      "option_d": "All of these",
+      
+      "correct_option": "b"
+    },
+
+    {
+      "question": "Differentiate between multiplexer and encoder?",
+      "qid": 5,
+      "option_a": "decode input",
+      "option_b": "strobe input",
+      "option_c": "Select input",
+      "option_d": "All of these",
+     
+      "correct_option": "b"
+    }
+    
+
+  
+
+
+
+
+  ]
