@@ -1,0 +1,70 @@
+
+
+  [
+    {
+      "question": "A multiplexer is a ___________",  
+      "qid": 1,
+      
+        "option_a": "data selector/multi-position switch.",                  
+        "option_b": "parallel to serial converter.",                  
+        "option_c": "design alternative to sum-of-product solutions.",                  
+        "option_d": "All of these"   ,                
+      
+      "correct_option": "d"                
+    },
+
+    {
+     "question": "How many select lines are required for a 32: 1 Mux?",  
+     "qid": 2,
+     
+        "option_a": "Two",                  
+        "option_b": "Four",                  
+        "option_c": "Five",                  
+        "option_d": "Eight"       ,            
+     
+      "correct_option": "c"                
+    },                                  
+    									                  
+    {
+      "question": "Any n-variable truth table can be implemented using a universal logic circuit referred to as multiplexer. State True or False.",
+      "qid": 3,
+     
+        "option_a": "True",
+        "option_b": "False",
+        "option_c": "spring-mass system",
+        "option_d": "fluid pressure",
+    
+      "correct_option": "a"
+    },
+
+    {
+      "question": "The enable input in a multiplexer is also referred to as________",
+      "qid": 4,
+      
+        "option_a": "decode input",
+        "option_b": "strobe input",
+        "option_c": "Select input",
+        "option_d": "All of these",
+      
+      "correct_option": "b"
+    },
+
+
+    {
+      "question": "For the circuit shown below, input S1 = 1, S0 = 0, then the output is_____ \n <img src='images/exp1q5.JPG' >",
+      "qid": 5,
+      
+        "option_a": "Y = 0",
+        "option_b": "Y = 1",
+        "option_c": "Y - X",
+        "option_d": "None of these",
+
+      "correct_option": "a"
+    }
+
+  
+
+
+
+
+  ]
